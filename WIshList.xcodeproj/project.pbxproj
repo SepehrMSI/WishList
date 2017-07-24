@@ -21,6 +21,7 @@
 		F49101671F25CF23002227E0 /* Image+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = F491015F1F25CF23002227E0 /* Image+CoreDataProperties.swift */; };
 		F49101681F25CF23002227E0 /* Store+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49101601F25CF23002227E0 /* Store+CoreDataClass.swift */; };
 		F49101691F25CF23002227E0 /* Store+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49101611F25CF23002227E0 /* Store+CoreDataProperties.swift */; };
+		F4A319061F2662920046051E /* ItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A319051F2662920046051E /* ItemCell.swift */; };
 		F4FE7EBF1F264086008C2DAF /* MaterialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FE7EBE1F264086008C2DAF /* MaterialView.swift */; };
 /* End PBXBuildFile section */
 
@@ -41,6 +42,7 @@
 		F491015F1F25CF23002227E0 /* Image+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Image+CoreDataProperties.swift"; path = "../Image+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		F49101601F25CF23002227E0 /* Store+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Store+CoreDataClass.swift"; path = "../Store+CoreDataClass.swift"; sourceTree = "<group>"; };
 		F49101611F25CF23002227E0 /* Store+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Store+CoreDataProperties.swift"; path = "../Store+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		F4A319051F2662920046051E /* ItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemCell.swift; sourceTree = "<group>"; };
 		F4FE7EBE1F264086008C2DAF /* MaterialView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaterialView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -114,6 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				F4FE7EBE1F264086008C2DAF /* MaterialView.swift */,
+				F4A319051F2662920046051E /* ItemCell.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4A319061F2662920046051E /* ItemCell.swift in Sources */,
 				F49101671F25CF23002227E0 /* Image+CoreDataProperties.swift in Sources */,
 				F49101641F25CF23002227E0 /* ItemType+CoreDataClass.swift in Sources */,
 				F491013E1F25C74E002227E0 /* WIshList.xcdatamodeld in Sources */,
