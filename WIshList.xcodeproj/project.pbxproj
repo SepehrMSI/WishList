@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F49101361F25C74E002227E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49101351F25C74E002227E0 /* AppDelegate.swift */; };
-		F49101381F25C74E002227E0 /* MianVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49101371F25C74E002227E0 /* MianVC.swift */; };
+		F49101381F25C74E002227E0 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49101371F25C74E002227E0 /* MainVC.swift */; };
 		F491013B1F25C74E002227E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F49101391F25C74E002227E0 /* Main.storyboard */; };
 		F491013E1F25C74E002227E0 /* WIshList.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F491013C1F25C74E002227E0 /* WIshList.xcdatamodeld */; };
 		F49101401F25C74E002227E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F491013F1F25C74E002227E0 /* Assets.xcassets */; };
@@ -28,7 +28,7 @@
 /* Begin PBXFileReference section */
 		F49101321F25C74E002227E0 /* WIshList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WIshList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F49101351F25C74E002227E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F49101371F25C74E002227E0 /* MianVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MianVC.swift; sourceTree = "<group>"; };
+		F49101371F25C74E002227E0 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		F491013A1F25C74E002227E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F491013D1F25C74E002227E0 /* WIshList.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = WIshList.xcdatamodel; sourceTree = "<group>"; };
 		F491013F1F25C74E002227E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -79,7 +79,7 @@
 				F4FE7EBD1F26405B008C2DAF /* View */,
 				F491016A1F25CF77002227E0 /* Model */,
 				F49101351F25C74E002227E0 /* AppDelegate.swift */,
-				F49101371F25C74E002227E0 /* MianVC.swift */,
+				F49101371F25C74E002227E0 /* MainVC.swift */,
 				F49101391F25C74E002227E0 /* Main.storyboard */,
 				F491013F1F25C74E002227E0 /* Assets.xcassets */,
 				F49101411F25C74E002227E0 /* LaunchScreen.storyboard */,
@@ -199,7 +199,7 @@
 				F49101641F25CF23002227E0 /* ItemType+CoreDataClass.swift in Sources */,
 				F491013E1F25C74E002227E0 /* WIshList.xcdatamodeld in Sources */,
 				F4FE7EBF1F264086008C2DAF /* MaterialView.swift in Sources */,
-				F49101381F25C74E002227E0 /* MianVC.swift in Sources */,
+				F49101381F25C74E002227E0 /* MainVC.swift in Sources */,
 				F49101691F25CF23002227E0 /* Store+CoreDataProperties.swift in Sources */,
 				F49101661F25CF23002227E0 /* Image+CoreDataClass.swift in Sources */,
 				F49101621F25CF23002227E0 /* Item+CoreDataClass.swift in Sources */,
